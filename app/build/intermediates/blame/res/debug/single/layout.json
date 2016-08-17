@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\src\\main\\res\\layout\\comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\exploded-aar\\barcodescanner-core-1.8.4\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RTMPAndroidDemo_1.5.2.362\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

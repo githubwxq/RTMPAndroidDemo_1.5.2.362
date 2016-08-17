@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\libs\zxing-core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\pre-dexed\debug\zxing-core-3.2.1_2b3b0525f33c70479a3f74298e104a84728b7579.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\libs\bugly_crash_release__2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b297a8d6f2369bf53b4812e26aa96f2656ae39d">
+        <dex dex="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\pre-dexed\debug\bugly_crash_release__2.1_dd62a2d1e69fae594a47cf23f933fa63b6ce1baf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\src\main\jniLibs\txrtmpsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b55ae25645cd923d8519ea163901a3aabd543fe7">
+        <dex dex="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\pre-dexed\debug\txrtmpsdk_8925f674ffa2a43b3b985fb0032b7b168646a9c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\exploded-aar\barcodescanner-core-1.8.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-barcodescanner-core-1.8.4_469df6b1825fd781a8365fedf7385650b2216859.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\pre-dexed\debug\android-support-v4_959defbc726c22258eb59178dea9666c6e3065cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\exploded-aar\zxing-1.8.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\Administrator\Desktop\RTMPAndroidDemo_1.5.2.362\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-zxing-1.8.4_a52957e279cfaa806196e6a2a62d9d1db4ab1636.jar" />
+    </item>
+
+</items>
